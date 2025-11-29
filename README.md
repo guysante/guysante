@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @guysante
 - 👀 I’m interested in learning new stuff
-- 🌱 I’m currently learning typescript and cordova
-- 💞️ I’m looking to collaborate on nothing (at the moment)
+- 🌱 I’m currently learning Tailwind
+- 💞️ I’m looking to collaborate on elaborate projects that let me explore
 - 📫 How to reach me ...
 
 <!---
